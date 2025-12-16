@@ -74,4 +74,4 @@ I am open to collaboration on:
 
 ## GitHub Activity
 
-![Arman GitHub stats](https://github-readme-stats.vercel.app/api?username=V1p3er&show_icons=true&theme=transparent)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=V1p3er&show_icons=true&hide_border=true&v=3)
