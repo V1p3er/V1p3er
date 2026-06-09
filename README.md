@@ -1,112 +1,105 @@
-# Arman Gholinezhad (V1p3er)  
-Backend Developer | Founder at Particel Agency | Co-founder at Anbargar  
+# Arman Gholinezhad (V1p3er)
 
-Building backend systems, exploring security, and obsessing over how things work.
+**Backend Engineer · Founder at Particel Agency · Co-founder at Anbargar**
 
----
-
-## 🧩 About Me
-
-I’m a backend engineer with a strong focus on **reliable, maintainable, and security-aware systems**.  
-I enjoy designing backend architectures, modeling domains clearly, and building systems that can evolve over time — not just “work for now”.
-
-I care about:
-- clarity in architecture  
-- correctness in behavior  
-- security in design  
-- and building tools that other developers actually like to work with
-
-I tend to think from first principles and design with **modularity, performance, maintainability, and cryptographic safety** in mind.
+Building secure, maintainable backend systems. Obsessed with how things work under the hood.
 
 ---
 
-## 🚀 What I Do
+## About
 
-- Design and implement backend services and APIs  
-- Build production-ready backend components with Python  
-- Model business domains with clean, maintainable abstractions  
-- Work with relational databases (primarily PostgreSQL)  
-- Containerize and deploy services using Docker  
-- Lead technical direction at **Particel Agency** on client projects
+I'm a backend engineer focused on building systems that are **reliable, maintainable, and secure by design**—not just functional. I care about clear architecture, correct behavior, and code that teams can reason about six months from now.
 
----
+I design from first principles. Every abstraction I introduce is intentional. Every dependency earns its place.
 
-## 🔐 Current Projects
-
-### **anbargar-warehouse.ir**
-A cleanly-architected, django web application managing warehouse focused on:
-
-- pure modeling 
-- ai integration for analysising supply and demand  
-- money management for business  
-- pluggable storage backends and api 
-- test-focused design for core logic  
-
-### **Cryptora**
-A cleanly-architected, domain-driven password manager engine focused on:
-
-- pure domain models  
-- Argon2id-based password hashing  
-- Fernet/AES-based encryption  
-- pluggable storage backends  
-- test-focused design for core logic  
-
-### **Particel Agency**
-Co-founder and technical lead.  
-We design and build backend-heavy web platforms and infrastructures for clients who need production-grade software, not just prototypes.
+**What drives me:**
+- Architecture clarity over cleverness
+- Correctness over assumptions
+- Security as a design constraint, not an afterthought
+- Developer experience—tools people enjoy working with
 
 ---
 
-## 🛠️ Technical Stack
+## Current Focus
 
-### Languages & Frameworks
-- Python (Django, FastAPI, Flask)  
-- JavaScript (Node.js basics)  
+### [Anbargar Warehouse](https://anbargar-warehouse.ir)
+Digital warehouse management platform. Django. PostgreSQL. AI-assisted supply/demand analysis.
 
-### Databases
-- PostgreSQL (primary focus)  
-- MySQL  
-- MongoDB  
-- SQLite  
+- Pure domain modeling with clean Django architecture
+- AI integration for supply/demand forecasting
+- Financial tracking and money management
+- Pluggable storage backends and REST API
+- Test-focused core logic design
 
-### Systems & Infrastructure
-- Docker & Docker Compose  
-- Linux (server setup, basic security hardening)  
-- Git (feature-branch workflow, GPG-signed commits)
+### Cryptora
+Domain-driven password manager engine. Pure Python. Argon2id. Fernet/AES.
 
----
+- Rich domain models—no anemic entities
+- Argon2id password hashing, Fernet/AES symmetric encryption
+- Pluggable storage backends (filesystem, database, in-memory)
+- CLI interface with modular command structure
+- High test coverage on all cryptographic paths
 
-## 🧭 Engineering Principles
+### [Particel Agency](https://www.particelagency.com)
+Co-founder & Technical Lead.
 
-I try to build software around:
-
-- Clean, layered architecture  
-- Domain-Driven Design (DDD) concepts  
-- Explicit, validated Value Objects  
-- Security-conscious development  
-- Test-first / test-focused thinking  
-- Simple, predictable abstractions over “clever” ones  
-
-These principles guide both client work at Particel and personal projects like Cryptora.
+We build production-grade backend platforms and infrastructure for clients who need real software, not prototypes. I lead architecture decisions, backend implementation, and deployment strategy.
 
 ---
 
-## 🤝 Collaboration & Work
+## Technical Stack
 
-I’m open to collaborating on:
+**Languages & Frameworks**
+Python (Django, Django REST Framework, FastAPI, Flask) · JavaScript (Node.js fundamentals)
 
-- backend architectures and APIs  
-- security-oriented backend systems  
-- scalable web applications  
-- technical partnerships around backend & infrastructure  
-- improving existing Python/Django backends and deployments  
+**Databases**
+PostgreSQL (primary) · MySQL · MongoDB · SQLite
+
+**Infrastructure & DevOps**
+Docker & Docker Compose · Linux server administration · Nginx & Gunicorn · Git (feature-branch workflow, GPG-signed commits) · VPS deployment & monitoring
+
+**Testing & Quality**
+Pytest · Factory Boy · Coverage.py · CI/CD with GitHub Actions
 
 ---
 
-## 🌐 Contact & Links
+## Engineering Principles
 
-Website: https://www.particelagency.com  
-Email: contact@particelagency.com  
-X (Twitter): https://x.com/Particel_agency  
-Instagram: https://www.instagram.com/Particel_agency/  
-Facebook: https://www.facebook.com/particel.agency/
+I build software around a small set of non-negotiable practices:
+
+- **Clean, layered architecture** — separation of concerns at every level
+- **Domain-Driven Design** — bounded contexts, aggregates, value objects
+- **Explicit over implicit** — validated Value Objects, no primitive obsession
+- **Security-conscious** — threat modeling early, cryptography done right
+- **Test-focused** — tests as first-class citizens, not an afterthought
+- **Simple abstractions** — predictable behavior over "clever" magic
+
+These apply equally to client work at Particel and personal projects like Cryptora.
+
+---
+
+## Collaboration
+
+I'm open to working on:
+
+- Backend architecture and API design
+- Security-oriented systems and cryptography
+- Scalable Django/FastAPI applications
+- Improving existing Python backends and deployments
+- Technical partnerships around backend infrastructure
+
+Reach out if you're building something serious.
+
+---
+
+## Contact
+
+- Website: [particelagency.com](https://www.particelagency.com)
+- Email: [contact@particelagency.com](mailto:contact@particelagency.com)
+- X (Twitter): [@Particel_agency](https://x.com/Particel_agency)
+- Instagram: [@Particel_agency](https://www.instagram.com/Particel_agency/)
+- Facebook: [particel.agency](https://www.facebook.com/particel.agency/)
+
+---
+
+> *"Simplicity is prerequisite for reliability."* — Edsger Dijkstra
