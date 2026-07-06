@@ -31,7 +31,7 @@ Digital warehouse management platform. Django. PostgreSQL. AI-assisted supply/de
 - Pluggable storage backends and REST API
 - Test-focused core logic design
 
-### Cryptora
+### [Cryptora Password Manager](https://github.com/Arman-Gholinezhad-Azar/cryptora_password_manager)
 Domain-driven password manager engine. Pure Python. Argon2id. Fernet/AES.
 
 - Rich domain models—no anemic entities
@@ -41,7 +41,7 @@ Domain-driven password manager engine. Pure Python. Argon2id. Fernet/AES.
 - High test coverage on all cryptographic paths
 
 ### [Particel Agency](https://www.particelagency.com)
-Co-founder & Technical Lead.
+founder & Technical Lead.
 
 We build production-grade backend platforms and infrastructure for clients who need real software, not prototypes. I lead architecture decisions, backend implementation, and deployment strategy.
 
